@@ -1,2 +1,2 @@
 # launchpad
-First tes platform repo
+First test platform repo
